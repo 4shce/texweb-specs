@@ -25,6 +25,27 @@ const config = {
   organizationName: '4shce', // Usually your GitHub org/user name.
   projectName: 'texweb-specs', // Usually your repo name.
 
+
+  /* Config pour Vercel + Local
+  title: 'TexWeb',
+  tagline: 'Doc are cool forever',
+  url: 'https://texweb-specs.vercel.app',
+  baseUrl: '/',
+  organizationName: '4shce', // Usually your GitHub org/user name.
+  projectName: 'texweb-specs', // Usually your repo name.
+  // Config pour Vercel */
+
+  ///* Config pour GithHub Pages + Local
+  title: 'TexWeb on GitHub Pages',
+  tagline: 'Doc are cool on GitHub Pages',
+  url: 'https://texweb-specs.github.io',
+  baseUrl: '/texweb-specs/',
+  organizationName: '4shce', // Votre nom d'utilisateur GitHub
+  projectName: 'texweb-specs', // Le nom de votre dépôt
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
+  // Config pour GithHub Pages */
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
