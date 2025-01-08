@@ -10,6 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  /*
   title: 'TexWeb',
   tagline: 'Doc are cool forever',
   favicon: 'img/favicon.ico',
@@ -24,7 +25,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: '4shce', // Usually your GitHub org/user name.
   projectName: 'texweb-specs', // Usually your repo name.
-
+  //*/
 
   /* Config pour Vercel + Local
   title: 'TexWeb',
@@ -38,13 +39,15 @@ const config = {
   ///* Config pour GithHub Pages + Local
   title: 'TexWeb on GitHub Pages',
   tagline: 'Doc are cool on GitHub Pages',
-  url: 'https://texweb-specs.github.io',
+  url: 'https://4shce.github.io',
   baseUrl: '/texweb-specs/',
   organizationName: '4shce', // Votre nom d'utilisateur GitHub
   projectName: 'texweb-specs', // Le nom de votre dépôt
-  deploymentBranch: 'gh-pages',
+  //deploymentBranch: 'gh-pages',
   trailingSlash: false,
   // Config pour GithHub Pages */
+
+  favicon: 'img/favicon.ico',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
