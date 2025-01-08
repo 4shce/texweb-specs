@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktexweb_specs=self.webpackChunktexweb_specs||[]).push([[1401],{6135:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/texweb-specs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

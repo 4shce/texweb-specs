@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktexweb_specs=self.webpackChunktexweb_specs||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/texweb-specs/blog","blogTitle":"Blog","authorsListPath":"/texweb-specs/blog/authors"}')}}]);
